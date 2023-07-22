@@ -1,0 +1,25 @@
+avis.com
+budget.com
+
+https://creatuportada.em.uy/car/
+https://github.com/Pharaon3/Car-Rental-PHP
+https://creatuportada.em.uy/car/budget.html
+
+
+=====================================
+kayak.com
+priceline.com
+
+Full Address,	
+Class,	
+Type,	
+Pickup Date,	
+Dropoff Date,	
+Pay now price,	
+Paynow price with tax,	
+Paylater price, 	
+Paylater, 
+price with tax	Link
+
+
+
